@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- ♥️ Digital marketing specialist
+- ✅ Currently learning: `React` & `Redux` and **97% done** in Front End Development Libraries course from FCC
+- 🔥 [Responsive Web Design](https://www.freecodecamp.org/certification/shlendakh/responsive-web-design) Certyfication from FCC
+- 🗄️ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/shlendakh/javascript-algorithms-and-data-structures) Certyfication from FCC
+
 <!--
 **shlendakh/shlendakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
