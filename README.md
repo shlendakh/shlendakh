@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 - ♥️ Digital marketing specialist
-- ✅ Currently learning: `React` & `Redux` and **97% done** in Front End Development Libraries course from FCC
+- 🔭 I’m currently working on Node.js + React marketing data & raporting tool in Toucan Agency
+- ✅ [Frontend Libraries](https://www.freecodecamp.org/certification/shlendakh/front-end-development-libraries) Certyfication from FCC
 - 🔥 [Responsive Web Design](https://www.freecodecamp.org/certification/shlendakh/responsive-web-design) Certyfication from FCC
 - 🗄️ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/shlendakh/javascript-algorithms-and-data-structures) Certyfication from FCC
 
