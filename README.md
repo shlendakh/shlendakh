@@ -1,24 +1,31 @@
 ![Hi, I'm Paweł Szlendak](head-banner.png "Hi")
 
-### Hi there 👋
+## About Me
 
-- ♥️ Digital marketing specialist
-- 🔭 I’m currently working on Node.js + React marketing data & raporting tool in Toucan Agency
-- ✅ [Frontend Libraries](https://www.freecodecamp.org/certification/shlendakh/front-end-development-libraries) Certyfication from FCC
-- 🔥 [Responsive Web Design](https://www.freecodecamp.org/certification/shlendakh/responsive-web-design) Certyfication from FCC
-- 🗄️ [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/shlendakh/javascript-algorithms-and-data-structures) Certyfication from FCC
+I'm Paweł Szlendak, a passionate Front-End Developer with a rich background in marketing. I love creating interactive and intuitive web applications using the latest technologies. My journey into web development has been fueled by a desire to blend creativity with technical skills, leveraging my marketing insights to build user-centric digital experiences.
 
-<!--
-**shlendakh/shlendakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔧 Technologies & Tools
 
-Here are some ideas to get you started:
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React, Node.js
+- **Tools:** Git, VSCode, Webpack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Working On
+
+- **[szlendak-showcase](https://github.com/shlendakh/szlendak-showcase):** A showcase of my web development projects, featuring a collection of interactive applications and tools built with React and Node.js.
+- **[mark-viewer](https://github.com/shlendakh/mark-viewer):** A markdown viewer application that allows users to render and view markdown files seamlessly.
+
+### 📫 How to Reach Me
+
+- ![LinkedIn](https://simpleicons.org/icons/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/pawel-szlendak/)
+- ![GitHub](https://simpleicons.org/icons/github.svg) [GitHub](https://github.com/shlendakh)
+
+### 📈 GitHub Stats
+
+![Paweł's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlendakh&show_icons=true&theme=radical)
+
+### 🏆 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shlendakh&layout=compact&theme=radical)
+
+Feel free to explore my repositories and reach out if you want to collaborate on exciting projects!
