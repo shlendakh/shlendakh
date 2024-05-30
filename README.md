@@ -1,3 +1,5 @@
+![Hi, I'm Paweł Szlendak](head-banner.png "Hi")
+
 ### Hi there 👋
 
 - ♥️ Digital marketing specialist
