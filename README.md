@@ -11,16 +11,25 @@ I'm Paweł Szlendak, a passionate Front-End Developer with a rich background in 
 - **Databases:** MySQL, PostgreSQL, Sequelize
 - **Tools:** Git, VSCode
 
+### 📜 Certificates
+- [Responsive Web Design](https://www.freecodecamp.org/certification/shlendakh/responsive-web-design)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/shlendakh/javascript-algorithms-and-data-structures)
+- [Front End Libraries](https://www.freecodecamp.org/certification/shlendakh/front-end-development-libraries)
+- [Data Visualization](https://www.freecodecamp.org/certification/shlendakh/data-visualization)
+
 ### 🌱 Currently Working On
 
 - **[soil-moisture-sensor](https://github.com/shlendakh/soil-moisture-sensor):** Simple Ardurino Project for handling maintenance of flowers in my apartamanet.
 - **[toucan-nest](https://github.com/toucan-agency/toucan-nest):** This is Node.js & React project for marketing agencies for reporting data from Meta and Google Ads (for clients and specialist)
 
-### 📫 How to Reach Me
+### 📫 How to Reach Me / Socials
 
 <a href="https://www.linkedin.com/in/pawel-szlendak/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/white" width="32" height="32" alt="LinkedIn"></a>
 <a href="https://github.com/shlendakh" target="_blank"><img src="https://cdn.simpleicons.org/github/white" width="32" height="32" alt="GitHub"></a>
 <a href="mailto:kontakt@pawelszlendak.pl" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="32" height="32" alt="Mail"></a>
+<a href="https://www.freecodecamp.org/shlendakh" target="_blank"><img src="https://cdn.simpleicons.org/freecodecamp/white" width="32" height="32" alt="Free Code Camp"></a>
+
+### 
 
 ### 📈 GitHub Stats
 
