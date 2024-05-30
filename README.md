@@ -2,30 +2,29 @@
 
 ## About Me
 
-I'm Paweł Szlendak, a passionate Front-End Developer with a rich background in marketing. I love creating interactive and intuitive web applications using the latest technologies. My journey into web development has been fueled by a desire to blend creativity with technical skills, leveraging my marketing insights to build user-centric digital experiences.
+I'm Paweł Szlendak, a passionate Front-End Developer with a rich background in marketing.
 
 ### 🔧 Technologies & Tools
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js
-- **Tools:** Git, VSCode, Webpack
+- **Languages:** JavaScript, HTML, CSS (SCSS & Tailwind)
+- **Frameworks:** React, Redux, Node.js, D3.js
+- **Databases:** MySQL, PostgreSQL, Sequelize
+- **Tools:** Git, VSCode
 
 ### 🌱 Currently Working On
 
-- **[szlendak-showcase](https://github.com/shlendakh/szlendak-showcase):** A showcase of my web development projects, featuring a collection of interactive applications and tools built with React and Node.js.
-- **[mark-viewer](https://github.com/shlendakh/mark-viewer):** A markdown viewer application that allows users to render and view markdown files seamlessly.
+- **[soil-moisture-sensor](https://github.com/shlendakh/soil-moisture-sensor):** Simple Ardurino Project for handling maintenance of flowers in my apartamanet.
+- **[toucan-nest](https://github.com/toucan-agency/toucan-nest):** This is Node.js & React project for marketing agencies for reporting data from Meta and Google Ads (for clients and specialist)
 
 ### 📫 How to Reach Me
 
-- ![LinkedIn](https://simpleicons.org/icons/linkedin.svg) [LinkedIn](https://www.linkedin.com/in/pawel-szlendak/)
-- ![GitHub](https://simpleicons.org/icons/github.svg) [GitHub](https://github.com/shlendakh)
+<a href="https://www.linkedin.com/in/pawel-szlendak/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/white" width="32" height="32" alt="LinkedIn"></a>
+<a href="https://github.com/shlendakh" target="_blank"><img src="https://cdn.simpleicons.org/github/white" width="32" height="32" alt="GitHub"></a>
+<a href="mailto:kontakt@pawelszlendak.pl" target="_blank"><img src="https://cdn.simpleicons.org/gmail/white" width="32" height="32" alt="Mail"></a>
 
 ### 📈 GitHub Stats
 
-![Paweł's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlendakh&show_icons=true&theme=radical)
-
-### 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shlendakh&layout=compact&theme=radical)
-
-Feel free to explore my repositories and reach out if you want to collaborate on exciting projects!
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shlendakh&show_icons=true&theme=radical" alt="Paweł's GitHub stats" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlendakh&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;">
+</div>
