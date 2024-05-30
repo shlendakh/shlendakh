@@ -25,6 +25,6 @@ I'm Paweł Szlendak, a passionate Front-End Developer with a rich background in 
 ### 📈 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlendakh&show_icons=true&theme=radical" alt="Paweł's GitHub stats" style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlendakh&layout=compact&theme=radical" alt="Top Languages" style="height: 200px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shlendakh&show_icons=true&theme=radical" alt="Paweł's GitHub stats" style="height: 150px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlendakh&layout=compact&theme=radical" alt="Top Languages" style="height: 150px;">
 </div>
