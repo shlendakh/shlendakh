@@ -7,7 +7,7 @@ I'm Paweł Szlendak, a passionate Front-End Developer with a rich background in 
 ### 🔧 Technologies & Tools
 
 - **Languages:** JavaScript ES6+, Typescript, HTML5, CSS (SCSS & Tailwind)
-- **Frameworks:** React, Vue3, Redux, Node.js, D3.js
+- **Frameworks:** React, Next.js, Vue3, Redux, Node.js, D3.js
 - **Databases:** MySQL, PostgreSQL, Sequelize
 - **Tools:** Git, VSCode
 
