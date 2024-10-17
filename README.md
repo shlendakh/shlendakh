@@ -21,7 +21,7 @@ I'm Paweł Szlendak, a passionate Front-End Developer with a rich background in 
 
 - **[soil-moisture-sensor](https://github.com/shlendakh/soil-moisture-sensor):** Simple Ardurino Project for handling maintenance of flowers in my apartamanet.
 - **[toucan-nest](https://github.com/toucan-agency/toucan-nest):** This is Node.js & React project for marketing agencies for reporting data from Meta and Google Ads (for clients and specialist)
-- **[my-next-blog](https://github.com/shlendakh/my-next-blog):** Showcase of my TypeScript and Next.js skills (early stage, work-in-progress)
+- **[obiadoinator-3000](https://github.com/shlendakh/obiadoinator-3k):** Work-in-progress, my Next.js 14 & Typescript project for shopping and recipies application (Next-Auth, realitme multiuser editing and a little AI)
 
 ### 📫 How to Reach Me / Socials
 
